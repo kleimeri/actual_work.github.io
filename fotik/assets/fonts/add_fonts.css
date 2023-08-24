@@ -1,0 +1,31 @@
+@font-face {
+     font-family: 'futura-Book';
+     src: url(../fonts/futura_pt/FuturaPT-Book.ttf);
+}
+@font-face {
+     font-family: 'futura-Bold';
+     src: url(../fonts/futura_pt/FuturaPT-Book.ttf);
+}
+@font-face {
+     font-family: 'futura-Bold-Obl';
+     src: url(../fonts/futura_pt/FuturaPT-BoldObl.ttf);
+}
+@font-face {
+     font-family: 'futura-Demi';
+     src: url(../fonts/futura_pt/FuturaPT-Demi.ttf);
+}
+@font-face {
+     font-family: 'Montserrat-Bold';
+     src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+}
+.block_boxs__item_data{
+     font-weight: bold;
+}
+.block_boxs__header{
+     font-family: 'futura-Bold-Obl';
+     font-weight: bold;
+     font-style: normal;
+}
+
+
+
